@@ -3,7 +3,7 @@
 
 #### Objectives:
 
-##### Forecasting whether or not a borrower will repay a loan or have difficulty is a critical business need. In project 1, our group wants to predict the probability of repaying a loan for each borrower. The data is provided by Home Credit, a service dedicated to providing lines of credit (loans) to the unbanked population. The dependent variable is the probability of default and independent variables are features related to the performance of repayment. Through optimization, our group would compare different models and features to secure a relatively good performance to predict the result.
+##### Forecasting whether or not a borrower will repay a loan or have difficulty is a critical business need. The data is provided by Home Credit, a service dedicated to providing lines of credit (loans) to the unbanked population. In project 1,  predicted the probability of repaying a loan for each borrower through supervised learning. The dependent variable is the probability of default and independent variables are features related to the performance of repayment. Through optimization, compared different models and features to secure a relatively good performance and to predict the result. In project 2, used unsupervised learning model to understand the internal structure of the data through classifying customers and analyzing the weight of variables in identifying whether customers default.
 
 #### Data description: 
 
